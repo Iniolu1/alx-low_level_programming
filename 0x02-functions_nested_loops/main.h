@@ -15,4 +15,6 @@ int _putchar();
 
 int _isalpha();
 
+int print_sign();
+
 #endif
