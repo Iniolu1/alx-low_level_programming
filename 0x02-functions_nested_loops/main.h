@@ -13,4 +13,6 @@ int _islower();
 
 int _putchar();
 
+int _isalpha();
+
 #endif
