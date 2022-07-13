@@ -5,4 +5,6 @@
 
 int main(void);
 
+void print_alphabet();
+
 #endif
