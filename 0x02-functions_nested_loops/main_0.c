@@ -1,4 +1,5 @@
 #include <limits.h>
+#include <stdio.h>
 #include "main.h"
 
 /**
@@ -13,6 +14,6 @@ int main(void)
 	if (r < 0)
 		r *= -1;
 	putchar(r + '0');
-	_putchar('\n');
+	putchar('\n');
 	return (0);
 }
