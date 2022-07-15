@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * _isupper - uppercase character
+ * isupper - uppercase character
  * @c: character to cheack
  * Return: 0 or 1
  */
-int _isupper(int c)
+int isupper(int c)
 {
 	if (c >= 'A' && c <= 'Z')
 	{
